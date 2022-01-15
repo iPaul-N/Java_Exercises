@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+/*1. Write a Java program to get a number from the user and print whether it is positive or negative.*/
 public class Exercice1 {
     public static void main(String[] args) 
     {
